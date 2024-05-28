@@ -1,0 +1,5 @@
+data_process.py用來處理data_finger.npz的資料
+
+LSTM_Autoencoder_test.ipynb使用處理好的資料data_process.npz訓練模型
+
+使用Evaluation.py生成混淆矩陣、ROC曲線
