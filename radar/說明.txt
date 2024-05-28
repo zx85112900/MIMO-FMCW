@@ -1,0 +1,8 @@
+利用out_of_box修改的firmware燒入雷達:
+IWR6843ISK_Azimuth.bin 
+
+雷達量測用的cfg檔:
+IWR6843ISK_profile_Azimuth.cfg
+
+雷達量測執行檔:
+IWR6843ISK.py
